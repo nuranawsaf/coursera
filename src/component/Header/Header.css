@@ -1,0 +1,21 @@
+.header img{
+    height: 70px;
+    margin-left: 40px;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 1px;
+    line-height: 80px;
+    font-size: 20px;
+    margin-top: -85px;
+    text-align: right;
+}
+nav a{
+    text-decoration: none;
+    color: rgba(255, 145, 0, 0.973);
+    margin-right: 60px;
+    padding: 2px;
+}
+nav a:hover{
+    background-color: rgb(72, 159, 212);
+}

@@ -1,0 +1,12 @@
+.Cart{
+    text-align: center;
+    margin-left: 75px;
+}
+.cart-btn{
+    background-color: black;
+    color: rgba(255, 145, 0, 0.973);
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
